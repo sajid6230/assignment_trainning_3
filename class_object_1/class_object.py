@@ -8,7 +8,7 @@ class School(ABC):
     def Display(self):
         pass
 
-#create a abstract method Update_detail
+#create a abstract method Update_details
     @abstractmethod
     def Update_details(self):
         pass
